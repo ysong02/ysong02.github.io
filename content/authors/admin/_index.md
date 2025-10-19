@@ -1,20 +1,17 @@
 ---
 # Display name
-title: Alex Johnson
+title: Yuxuan SONG 宋俞萱
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
-
-# Pronouns (optional)
-pronouns: he/him
+first_name: Yuxuan
+last_name: SONG
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 😆
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,75 +20,81 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Inria Paris, Team AIO
+    url: https://aio.inria.fr/ 
+  - name: Sorbonne University
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:syxenfrance@163.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  - icon: brands/weixin
+    url: '/uploads/weixin.jpg'  
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/ysong02 
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/yuxuan-song-392392223
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=kMAcBqAAAAAJ
+
+
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Low Power Wireless Communications
+  - Internet-of-Things
+  - Network Security
+  - Micro-robots
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD in Electronic Information and Communication Engineering
+    institution: Sorbonne University & National Institute for Research in Digital Science and Technology (Inria) Paris
+    date_start: 2015-10-01
+    date_end: 2026-09-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Remote Attestation for Internet-of-Things Swarms_. Supervised by Dr. Thomas Watteyne and Dr. Malisa Vucinic.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+      url: /uploads/thesis.pdf
+  - area: M.Sc. and M.Eng. in Telecom
+    institution: Institut national des sciences appliquées de Lyon (INSA Lyon)
+    date_start: 2020-09-01
+    date_end: 2023-08-31
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+       Specialized in Telecommunications
+  - area: Exchange in Electrical Engineering
+    institution: Korea Advanced Institute of Science and Technology (KAIST)
+    date_start: 2022-09-01
+    date_end: 2023-01-31
+    icon: kaist
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Exchanged in Electrical Engineering Department.
+  - area: Foundation in Mathematics and Computer Engineering
+    institution: Institut national des sciences appliquées de Rouen (INSA Rouen)
+    date_start: 2018-11-01
+    date_end: 2020-07-31
+    summary: |
+      Majored in Science, and I chose the Mathematics and Computer Engineering
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+  - position: Network engineer
+    company_name: Société française du radiotéléphone (SFR) 
+    company_url: 'https://www.sfr.fr/'
+    company_logo: '/uploads/SFR-logo.png'
+    date_start: 2023-02-20
+    date_end: 2023-07-28
+    summary: |
+      Audit of radio parameters using SQL, PHP.
+      Evaluation: 13.5/14
+
+  - position: Network Research Intern
+    company_name: National Institute for Research in Digital Science and Technology (Inria) Lyon
+    company_url: 'https://www.inria.fr/fr/centre-inria-de-lyon'
     company_logo: ''
     date_start: 2019-06-01
     date_end: 2019-12-31
@@ -133,37 +136,40 @@ skills:
         icon: book-open
 
 languages:
-  - name: English
+  - name: Chinese (native language)
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: English (TOEIC C1)
+    percent: 85
+  - name: French (DALF C1)
+    percent: 85
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+# awards:
+#   - title: Best Paper Award
+#     url: https://neurips.cc/
+#     date: '2022-12-01'
+#     awarder: NeurIPS
+#     icon: hero/trophy
+#     summary: |
+#       Awarded for groundbreaking work on efficient training of large models.
+#   - title: AI Innovation Grant
+#     url: https://www.nsf.gov/
+#     date: '2021-06-15'
+#     awarder: National Science Foundation
+#     icon: hero/currency-dollar
+#     summary: |
+#       $500,000 grant for research in ethical AI development.
+#   - title: Outstanding PhD Thesis
+#     url: https://www.stanford.edu/
+#     date: '2019-06-30'
+#     awarder: Stanford University
+#     icon: hero/academic-cap
+#     summary: |
+#       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Yuxuan SONG is currently working toward the Ph.D. degree in Information and Communication Technologies with the AIO team at Inria Paris and Sorbonne University, France. She received the M.Sc. and M.Eng. degrees in telecommunications, services and usages from INSA Lyon, France, in 2023. Her research interests focus on cybersecurity and low-power wireless communications for Internet-of-Things applications. She also contributes to the standardization work of attestation protocol for IoT networks at the IETF. She is fluent in Chinese, English and French. 
+![My MBTI personality type](mbti.png)
