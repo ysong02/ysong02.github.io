@@ -45,41 +45,41 @@ profiles:
 
 
 
-interests:
-  - Low Power Wireless Communications
-  - Internet-of-Things
-  - Network Security
-  - Micro-robots
+interests: []
+  # - Low Power Wireless Communications
+  # - Internet-of-Things
+  # - Network Security
+  # - Micro-robots
 
-education:
-  - area: PhD in Electronic Information and Communication Engineering
-    institution: Sorbonne University & National Institute for Research in Digital Science and Technology (Inria) Paris
-    date_start: 2015-10-01
-    date_end: 2026-09-30
-    summary: |
-      Thesis on _Remote Attestation for Internet-of-Things Swarms_. Supervised by Dr. Thomas Watteyne and Dr. Malisa Vucinic.
-    button:
-      text: 'Read Thesis'
-      url: /uploads/thesis.pdf
-  - area: M.Sc. and M.Eng. in Telecom
-    institution: Institut national des sciences appliquées de Lyon (INSA Lyon)
-    date_start: 2020-09-01
-    date_end: 2023-08-31
-    summary: |
-       Specialized in Telecommunications
-  - area: Exchange in Electrical Engineering
-    institution: Korea Advanced Institute of Science and Technology (KAIST)
-    date_start: 2022-09-01
-    date_end: 2023-01-31
-    icon: kaist
-    summary: |
-      Exchanged in Electrical Engineering Department.
-  - area: Foundation in Mathematics and Computer Engineering
-    institution: Institut national des sciences appliquées de Rouen (INSA Rouen)
-    date_start: 2018-11-01
-    date_end: 2020-07-31
-    summary: |
-      Majored in Science, and I chose the Mathematics and Computer Engineering
+education: []
+  # - area: PhD in Electronic Information and Communication Engineering
+  #   institution: Sorbonne University & National Institute for Research in Digital Science and Technology (Inria) Paris
+  #   date_start: 2015-10-01
+  #   date_end: 2026-09-30
+  #   summary: |
+  #     Thesis on _Remote Attestation for Internet-of-Things Swarms_. Supervised by Dr. Thomas Watteyne and Dr. Malisa Vucinic.
+  #   button:
+  #     text: 'Read Thesis'
+  #     url: /uploads/thesis.pdf
+  # - area: M.Sc. and M.Eng. in Telecom
+  #   institution: Institut national des sciences appliquées de Lyon (INSA Lyon)
+  #   date_start: 2020-09-01
+  #   date_end: 2023-08-31
+  #   summary: |
+  #      Specialized in Telecommunications
+  # - area: Exchange in Electrical Engineering
+  #   institution: Korea Advanced Institute of Science and Technology (KAIST)
+  #   date_start: 2022-09-01
+  #   date_end: 2023-01-31
+  #   icon: kaist
+  #   summary: |
+  #     Exchanged in Electrical Engineering Department.
+  # - area: Foundation in Mathematics and Computer Engineering
+  #   institution: Institut national des sciences appliquées de Rouen (INSA Rouen)
+  #   date_start: 2018-11-01
+  #   date_end: 2020-07-31
+  #   summary: |
+  #     Majored in Science, and I chose the Mathematics and Computer Engineering
 
 work:
   - position: Network engineer
@@ -90,16 +90,56 @@ work:
     date_end: 2023-07-28
     summary: |
       Audit of radio parameters using SQL, PHP.
+
       Evaluation: 13.5/14
+
+  - position: Research Intern
+    company_name: Korea Advanced Institute of Science and Technology (KAIST) NDSL Lab
+    company_url: 'https://www.kaist.ac.kr/en/'
+    company_logo: ''
+    date_start: 2022-09-05
+    date_end: 2022-12-30
+    summary: |
+      Large-file transfer based on TCP/IP packet processing. Modification of protocol on low layer via DPDK
+      
+      Evaluation: 18/20
 
   - position: Network Research Intern
     company_name: National Institute for Research in Digital Science and Technology (Inria) Lyon
     company_url: 'https://www.inria.fr/fr/centre-inria-de-lyon'
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2022-05-02
+    date_end: 2022-07-29
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Algorithms for gateway selection in LoRaWAN and in WiFi.
+
+      Evaluation of internship: Top 30% among all interns
+
+# awards:
+#   - title: External Relations Officer
+#     organization: Association des Doctorants Chinois en France (ADCF) 全法中国博士生联谊会
+#     organization_url: 'https://www.linkedin.com/company/adcf-association-des-doctorants-chinois-en-france/?originalSubdomain=fr'
+#     date_start: 2025-05-01
+#     date_end: ''
+#     summary: |
+#       Active member of ADCF, working as External Relations Officer (外联部).
+
+#   - title: Innovation Challenges Participant
+#     organization: European Union Innovation Programme
+#     organization_url: ''
+#     date_start: 2020-09-01
+#     date_end: 2021-03-31
+#     summary: |
+#       Successfully completed an EU-organized Innovation Challenges project, focusing on innovative technology solutions.
+
+#   - title: Violinist
+#     organization: Orchestre de INSA Rouen
+#     organization_url: ''
+#     date_start: 2019-09-01
+#     date_end: 2020-06-30
+#     summary: |
+#       Performed as violinist in the INSA Rouen orchestra, including performances at the Chinese New Year Gala and the graduation ceremony at INSA Rouen.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -143,33 +183,11 @@ languages:
   - name: French (DALF C1)
     percent: 85
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: Best Paper Award
-#     url: https://neurips.cc/
-#     date: '2022-12-01'
-#     awarder: NeurIPS
-#     icon: hero/trophy
-#     summary: |
-#       Awarded for groundbreaking work on efficient training of large models.
-#   - title: AI Innovation Grant
-#     url: https://www.nsf.gov/
-#     date: '2021-06-15'
-#     awarder: National Science Foundation
-#     icon: hero/currency-dollar
-#     summary: |
-#       $500,000 grant for research in ethical AI development.
-#   - title: Outstanding PhD Thesis
-#     url: https://www.stanford.edu/
-#     date: '2019-06-30'
-#     awarder: Stanford University
-#     icon: hero/academic-cap
-#     summary: |
-#       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Yuxuan SONG is currently working toward the Ph.D. degree in Information and Communication Technologies with the AIO team at Inria Paris and Sorbonne University, France. She received the M.Sc. and M.Eng. degrees in telecommunications, services and usages from INSA Lyon, France, in 2023. Her research interests focus on cybersecurity and low-power wireless communications for Internet-of-Things applications. She also contributes to the standardization work of attestation protocol for IoT networks at the IETF. She is fluent in Chinese, English and French. 
+I am currently pursuing a Ph.D. in Information and Communication Technologies with the AIO team at Inria Paris and Sorbonne University, France. I received my M.Sc. and M.Eng. degrees in Telecommunications from INSA Lyon in 2023.
+
+My research lies at the intersection of network security, low-power wireless communications, and Internet-of-Things, with a particular focus on resource-constrained embedded systems and micro-robotics. I am passionate about developing secure and efficient communication protocols for next-generation IoT deployments. As part of my work, I actively contribute to the standardization of attestation protocols for IoT networks at the IETF.
+
+I am fluent in Chinese, English, and French. Feel free to reach out if you'd like to discuss potential collaborations or research opportunities!
 ![My MBTI personality type](mbti.png)
