@@ -68,6 +68,16 @@ sections:
           - events
     design:
       view: card
+  - block: collection
+    content:
+      title: IETF
+      text: 'I also contribute to standardization work at the **Internet Engineering Task Force (IETF)**, the leading organization for developing internet standards and protocols. My contributions focus on attestation mechanisms for resource-constrained IoT devices. For details on my standardization activities, please visit the standardization page.'
+      filters:
+        folders:
+          - ietf
+        exclude_featured: false
+    design:
+      view: citation
 
   - block: collection
     id: fafa

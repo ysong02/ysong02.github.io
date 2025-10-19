@@ -10,8 +10,6 @@ sections:
   - block: collection
     content:
       title: Fafa
-
-      reading_time: false
       filters:
         folders: ["fafa"]   # ← this section itself (content/fafa/)
       count: 100
