@@ -54,14 +54,14 @@ interests: []
 education: 
   - area: PhD in Electronic Information and Communication Engineering
     institution: Sorbonne University & National Institute for Research in Digital Science and Technology (Inria) Paris
-    date_start: 2015-10-01
+    date_start: 2023-10-01
     date_end: 2026-09-30
     summary: |
       Thesis on _Remote Attestation for Internet-of-Things Swarms_. Supervised by Dr. Thomas Watteyne and Dr. Malisa Vucinic.
     button:
       text: 'Read Thesis'
       url: /uploads/thesis.pdf
-  - area: M.Sc. and M.Eng. in Telecom
+  - area: M.Sc. and M.Eng. in Telecommunications
     institution: Institut national des sciences appliquées de Lyon (INSA Lyon)
     date_start: 2020-09-01
     date_end: 2023-08-31
