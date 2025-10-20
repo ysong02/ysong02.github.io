@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Yuxuan SONG 宋俞萱
+title: Yuxuan Song 宋俞萱
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Yuxuan
-last_name: SONG
+last_name: Song
 
 # Status emoji
 status:

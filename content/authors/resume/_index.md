@@ -66,7 +66,7 @@ education:
     date_start: 2020-09-01
     date_end: 2023-08-31
     summary: |
-       Specialized in Telecommunications
+       Specialized in Telecommunications, Usages & Services
   - area: Exchange in Electrical Engineering
     institution: Korea Advanced Institute of Science and Technology (KAIST)
     date_start: 2022-09-01
