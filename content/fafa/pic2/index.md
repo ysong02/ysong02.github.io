@@ -17,14 +17,14 @@ Fafa: Miaow 2 miaow miaow. Miaow miaow miaow Yuxuan miaow miaow miaow. Miaow mia
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 30px 0;">
   <img src="1.png" alt="Fafa photo 1" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  <img src="2.jpg" alt="Fafa photo 2" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  <img src="3.jpg" alt="Fafa photo 3" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  <img src="4.jpg" alt="Fafa photo 4" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  <img src="5.jpg" alt="Fafa photo 5" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <img src="2.JPG" alt="Fafa photo 2" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <img src="3.JPG" alt="Fafa photo 3" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <img src="4.JPG" alt="Fafa photo 4" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <img src="5.JPG" alt="Fafa photo 5" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <img src="6.jpg" alt="Fafa photo 8" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <img src="8.jpg" alt="Fafa photo 9" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1)"> 
   <img src="15.jpg" alt="Fafa photo 9" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  <img src="11.jpg" alt="Fafa photo 9" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <img src="11.JPG" alt="Fafa photo 9" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <img src="9.jpg" alt="Fafa photo 9" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <img src="7.jpg" alt="Fafa photo 7" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
   <img src="10.jpg" alt="Fafa photo 8" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
