@@ -10,7 +10,7 @@ authors:
 # # author_notes:
 # # - "Equal contribution"
 # # - "Equal contribution"
-date: "2026-06-01T00:00:00Z"
+date: "2026-01-01T00:00:00Z"
 
 # # Schedule page publish date (NOT publication's date).
 # publishDate: "2026-06-01T00:00:00Z"
@@ -51,9 +51,9 @@ share: false
 reading_time: false
 
 # Custom links
-# links:
+links:
 #   - type: pdf
-#     url: "conference-paper.pdf"
+     url: "https://doi.ieeecomputersociety.org/10.1109/TC.2026.3678614"
 
 # # Associated Projects (optional).
 # #   Associate this publication with one or more of your projects.
