@@ -1,5 +1,5 @@
 ---
-title: "M-AuRA: Mutual Authentication and Remote Attestation over EDHOC."
+title: "M-AuRA: Mutual Authentication and Remote Attestation over EDHOC"
 authors:
 - admin
 - Elsa Lopez Perez
