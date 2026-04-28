@@ -53,7 +53,7 @@ reading_time: false
 # Custom links
 links:
    - type: doi
-    url: "https://doi.ieeecomputersociety.org/10.1109/TC.2026.3678614"
+     url: "https://doi.ieeecomputersociety.org/10.1109/TC.2026.3678614"
 
 # # Associated Projects (optional).
 # #   Associate this publication with one or more of your projects.
