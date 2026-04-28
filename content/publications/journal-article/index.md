@@ -1,7 +1,8 @@
 ---
-title: "M-AuRA: Mutual Authentication and Remote Attestation over EDHOC. (under revision)"
+title: "M-AuRA: Mutual Authentication and Remote Attestation over EDHOC."
 authors:
 - admin
+- Elsa Lopez Perez
 - Geovane Fedrecheski
 - Malisa Vucinic
 - Thomas Watteyne
@@ -11,7 +12,7 @@ authors:
 # date: "2015-09-01T00:00:00Z"
 
 # # Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2026-06-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,7 +23,34 @@ publication_types: ["article-journal"]
 publication: In *IEEE Transactions on Computers*
 publication_short: In *IEEE Transactions on Computers*
 
-abstract: Currently under revision with positive reviews, looking promising! Finger crossed!
+abstract: The proliferation of Internet-of-Things (IoT) devices
+in critical infrastructure requires robust security mechanisms to
+verify device integrity and trustworthiness. Remote Attestation
+(RA) is a security mechanism for validating the software and
+hardware state of remote devices. Existing RA solutions for
+resource-constrained IoT devices lack comprehensive frameworks
+for secure attestation channels and focus primarily on local
+evidence generation without addressing end-to-end security. This
+paper introduces M-AuRA, a lightweight RA solution that fills
+these gaps by leveraging the newly standardized Ephemeral
+Diffie-Hellman over COSE (EDHOC) protocol. M-AuRA seamlessly
+integrates attestation with authentication, enabling both
+unilateral and mutual attestation modes while maintaining
+minimal resource overhead. Our framework specifies how to
+transport existing attestation mechanisms in parallel with secure
+communication establishment, providing a complete end-to-end
+security solution for IoT deployments. We demonstrate MAuRA’s
+practicality through implementation on the nRF5340
+microcontroller running at 64 MHz, evaluating performance
+across both software and hardware cryptographic back-ends.
+In mutual attestation mode, our implementation consumes only
+4,692 B RAM and 19,350 B flash memory usage, occupying
+0.9% and 1.85% of available nRF5340 resources, respectively.
+The four-message EDHOC exchange (45 B, 65 B, 177 B and
+120 B) enables mutual trustworthiness verification in 10.46 s
+using software-based cryptographic back-end, or only 0.43 s with
+hardware acceleration, consuming 171.43 mC and 7.97 mC of
+charge, respectively.
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
